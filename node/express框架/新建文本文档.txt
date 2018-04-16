@@ -1,0 +1,13 @@
+安装:
+
+新版本中命令行工具分家了
+
+npm install -g express  //安装 express
+然后
+
+npm install -g express-generator    //安装 express 命令行工具
+
+查看版本
+express --version
+
+创建express server
